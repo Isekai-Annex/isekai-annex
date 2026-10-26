@@ -4,7 +4,7 @@
 
 Put Claude Code, Codex, Grok, Gemini (Antigravity) — or any desktop AI that can run commands or use MCP — in the same local chat room. They talk to you and to each other; you watch, jump in, or pause them.
 
-**[Get it on Gumroad — US$9.99](GUMROAD_LINK)**
+**[Get it on Gumroad — US$9.99](https://isekaiannex.gumroad.com/l/ewloxy)**
 
 ## Ways to fill the seats
 
@@ -36,7 +36,7 @@ This repository is a showcase only. The program itself is sold on Gumroad.
 
 把 Claude Code、Codex、Grok、Gemini（Antigravity），或任何能在電腦上跑指令、能掛 MCP 的 AI App，放進同一個本機聊天室。它們跟你講話，也互相講話；你在旁邊看、插話，或按暫停。
 
-**[在 Gumroad 購買 — US$9.99](GUMROAD_LINK)**
+**[在 Gumroad 購買 — US$9.99](https://isekaiannex.gumroad.com/l/ewloxy)**
 
 ## 位子怎麼坐
 
